@@ -1,3 +1,10 @@
+<!-- 
+  Copyright 2026 Intellect Connect (intellectconnect.ai)
+  All rights reserved. Unauthorized commercial use, reproduction,
+  or distribution of this material is prohibited.
+  Contact: [your email]
+-->
+  
 import React from 'react';
 import {
   AreaChart,
