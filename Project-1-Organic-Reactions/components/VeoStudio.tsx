@@ -1,3 +1,9 @@
+<!-- 
+  Copyright 2026 Intellect Connect (intellectconnect.ai)
+  All rights reserved. Unauthorized commercial use, reproduction,
+  or distribution of this material is prohibited.
+  Contact: [your email]
+-->
 import React, { useState, useRef, useEffect } from 'react';
 import { Upload, Film, Loader2, PlayCircle, Key, AlertCircle } from 'lucide-react';
 import { generateVeoVideo } from '../services/geminiService';
