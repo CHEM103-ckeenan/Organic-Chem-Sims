@@ -1,3 +1,10 @@
+<!-- 
+  Copyright 2026 Intellect Connect (intellectconnect.ai)
+  All rights reserved. Unauthorized commercial use, reproduction,
+  or distribution of this material is prohibited.
+  Contact: [your email]
+-->
+  
 import React, { useState, useEffect, useRef } from 'react';
 import { Play, Pause, RotateCcw, Info, Settings2, Eye, EyeOff, Timer, SkipForward } from 'lucide-react';
 import EnergyDiagram from './EnergyDiagram';
